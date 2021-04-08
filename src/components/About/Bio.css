@@ -1,0 +1,27 @@
+
+h1 {
+  color: #21BFAF;
+}
+
+p {
+  color: #21BFAF;
+}
+
+.bio-jumbo {
+  background-color: #0B0B0D !important;
+}
+
+.bio-button {
+  background-color: #142624 !important;
+  border: 1px solid #142624 !important;
+}
+
+.bio-button:hover {
+  border: 2px solid #185953 !important;
+  box-shadow: 0 0 8px #21BFAF;
+}
+
+.bio-button:active {
+  border: 2px solid #185953 !important;
+  box-shadow: 0 0 8px #21BFAF !important;
+}

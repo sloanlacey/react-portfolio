@@ -1,9 +1,12 @@
-import './App.css';
-import HelloBio from './components/HelloBio';
+import Hello from './components/Header/Hello';
+import Bio from './components/About/Bio';
 
 function App() {
   return (
-    <HelloBio />
+    <>
+    <Hello />
+    <Bio />
+    </>
   );
 }
 

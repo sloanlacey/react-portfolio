@@ -1,9 +1,9 @@
 import React from 'react';
 import { Jumbotron, Card } from 'react-bootstrap';
-import '../styles/HelloBio.css';
+import '../Header/Hello.css';
 
 
-function HelloBio() {
+function Hello() {
     return (
         <>
         <Jumbotron fluid className='header'>
@@ -41,4 +41,4 @@ function HelloBio() {
     );
 }
 
-export default HelloBio;
+export default Hello;
