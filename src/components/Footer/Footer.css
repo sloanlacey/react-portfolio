@@ -1,0 +1,22 @@
+/* .footer-jumbo {
+    background-color: #0B0B0D !important;
+    width: 100%;
+} */
+
+.footer {
+    background-image: url('./hello.png');
+    background-size: cover;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border: 2px solid #1FA698 !important;
+    box-shadow: 0 0 10px #21BFAF;
+}
+
+#foot-card {
+    border: 2px solid #1FA698 !important;
+    box-shadow: 0 0 10px #21BFAF;
+}

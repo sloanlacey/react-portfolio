@@ -5,6 +5,8 @@ html {
 .header {
     background-image: url('/src/components/Header/hello.png');
     background-size: cover;
+    border: 2px solid #1FA698 !important;
+    box-shadow: 0 0 10px #21BFAF;
 }
 
 .circle {
@@ -38,10 +40,16 @@ html {
 
 .card-header {
     background-color: #142624 !important;
-    color: #1C8C81;
+    color: #21BFAF;
 }
 
 .card-body {
     background-color: #0B0B0D !important;
     color: #1C8C81;
+}
+
+a {
+    color: #21BFAF !important;
+    margin-left: 15px;
+    margin-right: 15px;
 }
