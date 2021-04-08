@@ -43,9 +43,9 @@ function Languages() {
                         title='Bonus'
                         tech1='Procreate'
                         tech2='Photoshop'
-                        tech3='Need to add'
-                        tech4='Need to add'
-                        tech5='Need to add'
+                        tech3='Git Flow'
+                        tech4='Kanban'
+                        tech5='Miro => Figma'
                     />
                 </div>
             </div>
