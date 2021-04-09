@@ -1,5 +1,5 @@
 import React from 'react';
-import { Carousel } from 'react-bootstrap';
+import { Carousel, Button } from 'react-bootstrap';
 import './Carousel.css';
 import image1 from '../../images/sloanhome.png';
 import image2 from '../../images/sloanportfolio.png';
@@ -17,8 +17,8 @@ function CarouselPortfolio() {
               alt="First slide"
           />
           <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3><span className='slide-span'>Slide #1</span></h3>
+            <Button href='https://github.com/sloanlacey/portfolio-update' target='_blank' rel="noreferrer" variant="dark">Repo</Button>
           </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -28,8 +28,8 @@ function CarouselPortfolio() {
               alt="Second slide"
           />
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3><span className='slide-span'>Slide #2</span></h3>
+            <Button href='https://github.com/sloanlacey/portfolio-update' target='_blank' rel="noreferrer" variant="dark">Repo</Button>
           </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -39,8 +39,8 @@ function CarouselPortfolio() {
               alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <h3><span className='slide-span'>Slide #3</span></h3>
+            <Button href='https://github.com/sloanlacey/portfolio-update' target='_blank' rel="noreferrer" variant="dark">Repo</Button>
           </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
