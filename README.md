@@ -11,7 +11,7 @@
 This is my developer portfolio containing six of my top projects (see my pinned projects). It is a single page, scrollable app with my work, bio and contact information.
 
 ## Portfolio
-![Portfolio](#)
+![Portfolio](https://github.com/sloanlacey/react-portfolio/blob/main/src/images/Portfolio.png)
 
 ## Technologies
 This project is created with:
