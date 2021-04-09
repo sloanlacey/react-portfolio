@@ -9,7 +9,7 @@ function CarouselProfGen() {
     return (
       <>
       <div className='container'>
-      <h1>Team Profile Generator</h1>
+      <h2 id='project-headers'>Team Profile Generator</h2>
         <Carousel>
           <Carousel.Item>
             <img

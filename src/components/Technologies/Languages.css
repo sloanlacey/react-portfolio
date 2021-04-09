@@ -5,3 +5,8 @@
 #tech-heading {
     color: #0B0B0D;
 }
+
+.card-body {
+    border: 2px solid #1FA698 !important;
+    box-shadow: 0 0 10px #21BFAF !important;
+}

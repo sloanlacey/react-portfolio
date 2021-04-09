@@ -1,0 +1,12 @@
+#projects {
+    color: #0B0B0D;
+}
+
+#project-headers {
+    color: #16403C;
+}
+
+.carousel {
+    border: 1px solid #0B0B0D !important;
+    box-shadow: 0 0 10px #0B0B0D;
+}

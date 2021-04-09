@@ -8,7 +8,7 @@ import image3 from '../../images/addburg.png';
 function CarouselBurger() {
     return (
       <div className='container'>
-      <h1>Burger Logger</h1>
+      <h2 id='project-headers'>Burger Logger</h2>
         <Carousel>
           <Carousel.Item>
             <img

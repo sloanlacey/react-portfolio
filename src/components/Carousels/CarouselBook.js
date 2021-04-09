@@ -8,7 +8,7 @@ import image3 from '../../images/trackmodal.png';
 function CarouselBook() {
     return (
       <div className='container'>
-      <h1>Book - Worm</h1>
+      <h2 id='project-headers'>Book - Worm</h2>
         <Carousel>
           <Carousel.Item>
             <img

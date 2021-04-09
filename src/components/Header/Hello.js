@@ -18,10 +18,10 @@ function Hello() {
                             <Card.Body>
                             <Card.Title>Find Me:</Card.Title>
                             <Card.Text>
-                            <a href="https://github.com/sloanlacey" target="_blank" rel="noreferrer" alt="github-icon" title="Sloan's Github." className='icons'><i class="fab fa-github fa-2x"></i></a>
-                            <a href="https://www.linkedin.com/in/sloanlacey/" target="_blank" rel="noreferrer" alt="linkedin-icon" title="Sloan's LinkedIn profile." className='icons'><i class="fab fa-linkedin fa-2x"></i></a>
-                            <a href="https://twitter.com/iamMrTeal" target="_blank" rel="noreferrer" alt="linkedin-icon" title="Sloan's LinkedIn profile." className='icons'><i class="fab fa-twitter fa-2x"></i></a>
-                            <a href={resumePDF} download target="_blank" rel="noreferrer" alt="pdf-icon" title="Download Sloan's resumé."><i class="fas fa-file-pdf fa-2x"></i></a>
+                            <a href="https://github.com/sloanlacey" target="_blank" rel="noreferrer" alt="github-icon" title="Sloan's Github." className='icons'><i className="fab fa-github fa-2x"></i></a>
+                            <a href="https://www.linkedin.com/in/sloanlacey/" target="_blank" rel="noreferrer" alt="linkedin-icon" title="Sloan's LinkedIn profile." className='icons'><i className="fab fa-linkedin fa-2x"></i></a>
+                            <a href="https://twitter.com/iamMrTeal" target="_blank" rel="noreferrer" alt="linkedin-icon" title="Sloan's LinkedIn profile." className='icons'><i className="fab fa-twitter fa-2x"></i></a>
+                            <a href={resumePDF} download target="_blank" rel="noreferrer" alt="pdf-icon" title="Download Sloan's resumé."><i className="fas fa-file-pdf fa-2x"></i></a>
                             </Card.Text>
                             </Card.Body>
                         </Card>

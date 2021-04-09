@@ -9,7 +9,7 @@ function CarouselEmpDir() {
     return (
       <>
       <div className='container'>
-      <h1>Employee Database Manager from CLI</h1>
+      <h2 id='project-headers'>Employee Database Manager from CLI</h2>
         <Carousel>
           <Carousel.Item>
             <img

@@ -9,6 +9,8 @@ p {
 
 .bio-jumbo {
   background-color: #0B0B0D !important;
+  border: 2px solid #1FA698 !important;
+  box-shadow: 0 0 10px #21BFAF;
 }
 
 .bio-button {

@@ -9,11 +9,11 @@ function CarouselSolar() {
     return (
       <>
       <div className='container'>
-      <h1>Projects</h1>
+      <h1 id='projects'>Projects</h1>
       </div>
       <br></br>
       <div className='container'>
-      <h1>Solar System Navigator</h1>
+      <h2 id='project-headers'>Solar System Navigator</h2>
         <Carousel>
           <Carousel.Item>
             <img
